@@ -1,0 +1,183 @@
+05-Nov-21 16:43:20 [DEBUG] - Using selector: EpollSelector
+05-Nov-21 16:43:20 [DEBUG] - Serving on ('127.0.0.1', 8888)
+05-Nov-21 16:43:23 [INFO] - Received '{"price": 19.93, "unix_time": 1636123403.6}' from ('127.0.0.1', 37282)
+05-Nov-21 16:43:23 [INFO] - Send: '{"price": 19.93, "unix_time": 1636123403.6}'
+05-Nov-21 16:43:23 [INFO] - Close the connection
+05-Nov-21 16:43:23 [INFO] - Received '{"price": 83.09, "unix_time": 1636123403.7}' from ('127.0.0.1', 37284)
+05-Nov-21 16:43:23 [INFO] - Send: '{"price": 83.09, "unix_time": 1636123403.7}'
+05-Nov-21 16:43:23 [INFO] - Close the connection
+05-Nov-21 16:43:23 [INFO] - Received '{"price": 87.63, "unix_time": 1636123403.8}' from ('127.0.0.1', 37286)
+05-Nov-21 16:43:23 [INFO] - Send: '{"price": 87.63, "unix_time": 1636123403.8}'
+05-Nov-21 16:43:23 [INFO] - Close the connection
+05-Nov-21 16:43:23 [INFO] - Received '{"price": 24.85, "unix_time": 1636123403.9}' from ('127.0.0.1', 37288)
+05-Nov-21 16:43:23 [INFO] - Send: '{"price": 24.85, "unix_time": 1636123403.9}'
+05-Nov-21 16:43:23 [INFO] - Close the connection
+05-Nov-21 16:43:23 [INFO] - Received '{"price": 65.52, "unix_time": 1636123404.0}' from ('127.0.0.1', 37290)
+05-Nov-21 16:43:23 [INFO] - Send: '{"price": 65.52, "unix_time": 1636123404.0}'
+05-Nov-21 16:43:23 [INFO] - Close the connection
+05-Nov-21 16:43:24 [INFO] - Received '{"price": 82.35, "unix_time": 1636123404.1}' from ('127.0.0.1', 37292)
+05-Nov-21 16:43:24 [INFO] - Send: '{"price": 82.35, "unix_time": 1636123404.1}'
+05-Nov-21 16:43:24 [INFO] - Close the connection
+05-Nov-21 16:43:24 [INFO] - Received '{"price": 77.82, "unix_time": 1636123404.2}' from ('127.0.0.1', 37294)
+05-Nov-21 16:43:24 [INFO] - Send: '{"price": 77.82, "unix_time": 1636123404.2}'
+05-Nov-21 16:43:24 [INFO] - Close the connection
+05-Nov-21 16:43:24 [INFO] - Received '{"price": 30.71, "unix_time": 1636123404.3}' from ('127.0.0.1', 37296)
+05-Nov-21 16:43:24 [INFO] - Send: '{"price": 30.71, "unix_time": 1636123404.3}'
+05-Nov-21 16:43:24 [INFO] - Close the connection
+05-Nov-21 16:43:24 [INFO] - Received '{"price": 82.39, "unix_time": 1636123404.4}' from ('127.0.0.1', 37300)
+05-Nov-21 16:43:24 [INFO] - Send: '{"price": 82.39, "unix_time": 1636123404.4}'
+05-Nov-21 16:43:24 [INFO] - Close the connection
+05-Nov-21 16:43:24 [INFO] - Received '{"price": 61.7, "unix_time": 1636123404.5}' from ('127.0.0.1', 37302)
+05-Nov-21 16:43:24 [INFO] - Send: '{"price": 61.7, "unix_time": 1636123404.5}'
+05-Nov-21 16:43:24 [INFO] - Close the connection
+05-Nov-21 16:43:24 [INFO] - Received '{"price": 54.16, "unix_time": 1636123404.6}' from ('127.0.0.1', 37304)
+05-Nov-21 16:43:24 [INFO] - Send: '{"price": 54.16, "unix_time": 1636123404.6}'
+05-Nov-21 16:43:24 [INFO] - Close the connection
+05-Nov-21 16:43:24 [INFO] - Received '{"price": 64.32, "unix_time": 1636123404.7}' from ('127.0.0.1', 37306)
+05-Nov-21 16:43:24 [INFO] - Send: '{"price": 64.32, "unix_time": 1636123404.7}'
+05-Nov-21 16:43:24 [INFO] - Close the connection
+05-Nov-21 16:43:24 [INFO] - Received '{"price": 16.27, "unix_time": 1636123404.8}' from ('127.0.0.1', 37308)
+05-Nov-21 16:43:24 [INFO] - Send: '{"price": 16.27, "unix_time": 1636123404.8}'
+05-Nov-21 16:43:24 [INFO] - Close the connection
+05-Nov-21 16:43:24 [INFO] - Received '{"price": 80.48, "unix_time": 1636123404.9}' from ('127.0.0.1', 37310)
+05-Nov-21 16:43:24 [INFO] - Send: '{"price": 80.48, "unix_time": 1636123404.9}'
+05-Nov-21 16:43:24 [INFO] - Close the connection
+05-Nov-21 16:43:25 [INFO] - Received '{"price": 44.92, "unix_time": 1636123405.0}' from ('127.0.0.1', 37312)
+05-Nov-21 16:43:25 [INFO] - Send: '{"price": 44.92, "unix_time": 1636123405.0}'
+05-Nov-21 16:43:25 [INFO] - Close the connection
+05-Nov-21 16:43:25 [INFO] - Received '{"price": 62.12, "unix_time": 1636123405.1}' from ('127.0.0.1', 37314)
+05-Nov-21 16:43:25 [INFO] - Send: '{"price": 62.12, "unix_time": 1636123405.1}'
+05-Nov-21 16:43:25 [INFO] - Close the connection
+05-Nov-21 16:43:25 [INFO] - Received '{"price": 66.54, "unix_time": 1636123405.2}' from ('127.0.0.1', 37316)
+05-Nov-21 16:43:25 [INFO] - Send: '{"price": 66.54, "unix_time": 1636123405.2}'
+05-Nov-21 16:43:25 [INFO] - Close the connection
+05-Nov-21 16:43:25 [INFO] - Received '{"price": 54.01, "unix_time": 1636123405.3}' from ('127.0.0.1', 37318)
+05-Nov-21 16:43:25 [INFO] - Send: '{"price": 54.01, "unix_time": 1636123405.3}'
+05-Nov-21 16:43:25 [INFO] - Close the connection
+05-Nov-21 16:43:25 [INFO] - Received '{"price": 52.38, "unix_time": 1636123405.4}' from ('127.0.0.1', 37320)
+05-Nov-21 16:43:25 [INFO] - Send: '{"price": 52.38, "unix_time": 1636123405.4}'
+05-Nov-21 16:43:25 [INFO] - Close the connection
+05-Nov-21 16:43:25 [INFO] - Received '{"price": 35.49, "unix_time": 1636123405.5}' from ('127.0.0.1', 37322)
+05-Nov-21 16:43:25 [INFO] - Send: '{"price": 35.49, "unix_time": 1636123405.5}'
+05-Nov-21 16:43:25 [INFO] - Close the connection
+05-Nov-21 16:43:25 [INFO] - Received '{"price": 17.47, "unix_time": 1636123405.6}' from ('127.0.0.1', 37324)
+05-Nov-21 16:43:25 [INFO] - Send: '{"price": 17.47, "unix_time": 1636123405.6}'
+05-Nov-21 16:43:25 [INFO] - Close the connection
+05-Nov-21 16:43:25 [INFO] - Received '{"price": 78.51, "unix_time": 1636123405.7}' from ('127.0.0.1', 37326)
+05-Nov-21 16:43:25 [INFO] - Send: '{"price": 78.51, "unix_time": 1636123405.7}'
+05-Nov-21 16:43:25 [INFO] - Close the connection
+05-Nov-21 16:43:25 [INFO] - Received '{"price": 37.36, "unix_time": 1636123405.8}' from ('127.0.0.1', 37328)
+05-Nov-21 16:43:25 [INFO] - Send: '{"price": 37.36, "unix_time": 1636123405.8}'
+05-Nov-21 16:43:25 [INFO] - Close the connection
+05-Nov-21 16:43:25 [INFO] - Received '{"price": 35.14, "unix_time": 1636123405.9}' from ('127.0.0.1', 37330)
+05-Nov-21 16:43:25 [INFO] - Send: '{"price": 35.14, "unix_time": 1636123405.9}'
+05-Nov-21 16:43:25 [INFO] - Close the connection
+05-Nov-21 16:43:26 [INFO] - Received '{"price": 28.19, "unix_time": 1636123406.0}' from ('127.0.0.1', 37332)
+05-Nov-21 16:43:26 [INFO] - Send: '{"price": 28.19, "unix_time": 1636123406.0}'
+05-Nov-21 16:43:26 [INFO] - Close the connection
+05-Nov-21 16:43:26 [INFO] - Received '{"price": 27.59, "unix_time": 1636123406.1}' from ('127.0.0.1', 37334)
+05-Nov-21 16:43:26 [INFO] - Send: '{"price": 27.59, "unix_time": 1636123406.1}'
+05-Nov-21 16:43:26 [INFO] - Close the connection
+05-Nov-21 16:43:26 [INFO] - Received '{"price": 49.55, "unix_time": 1636123406.2}' from ('127.0.0.1', 37336)
+05-Nov-21 16:43:26 [INFO] - Send: '{"price": 49.55, "unix_time": 1636123406.2}'
+05-Nov-21 16:43:26 [INFO] - Close the connection
+05-Nov-21 16:43:26 [INFO] - Received '{"price": 30.93, "unix_time": 1636123406.4}' from ('127.0.0.1', 37338)
+05-Nov-21 16:43:26 [INFO] - Send: '{"price": 30.93, "unix_time": 1636123406.4}'
+05-Nov-21 16:43:26 [INFO] - Close the connection
+05-Nov-21 16:43:26 [INFO] - Received '{"price": 55.77, "unix_time": 1636123406.5}' from ('127.0.0.1', 37340)
+05-Nov-21 16:43:26 [INFO] - Send: '{"price": 55.77, "unix_time": 1636123406.5}'
+05-Nov-21 16:43:26 [INFO] - Close the connection
+05-Nov-21 16:43:26 [INFO] - Received '{"price": 28.63, "unix_time": 1636123406.6}' from ('127.0.0.1', 37342)
+05-Nov-21 16:43:26 [INFO] - Send: '{"price": 28.63, "unix_time": 1636123406.6}'
+05-Nov-21 16:43:26 [INFO] - Close the connection
+05-Nov-21 16:43:26 [INFO] - Received '{"price": 94.07, "unix_time": 1636123406.7}' from ('127.0.0.1', 37344)
+05-Nov-21 16:43:26 [INFO] - Send: '{"price": 94.07, "unix_time": 1636123406.7}'
+05-Nov-21 16:43:26 [INFO] - Close the connection
+05-Nov-21 16:43:26 [INFO] - Received '{"price": 90.96, "unix_time": 1636123406.8}' from ('127.0.0.1', 37346)
+05-Nov-21 16:43:26 [INFO] - Send: '{"price": 90.96, "unix_time": 1636123406.8}'
+05-Nov-21 16:43:26 [INFO] - Close the connection
+05-Nov-21 16:43:26 [INFO] - Received '{"price": 20.56, "unix_time": 1636123406.9}' from ('127.0.0.1', 37348)
+05-Nov-21 16:43:26 [INFO] - Send: '{"price": 20.56, "unix_time": 1636123406.9}'
+05-Nov-21 16:43:26 [INFO] - Close the connection
+05-Nov-21 16:43:26 [INFO] - Received '{"price": 19.34, "unix_time": 1636123407.0}' from ('127.0.0.1', 37350)
+05-Nov-21 16:43:26 [INFO] - Send: '{"price": 19.34, "unix_time": 1636123407.0}'
+05-Nov-21 16:43:26 [INFO] - Close the connection
+05-Nov-21 16:43:27 [INFO] - Received '{"price": 59.26, "unix_time": 1636123407.1}' from ('127.0.0.1', 37352)
+05-Nov-21 16:43:27 [INFO] - Send: '{"price": 59.26, "unix_time": 1636123407.1}'
+05-Nov-21 16:43:27 [INFO] - Close the connection
+05-Nov-21 16:43:27 [INFO] - Received '{"price": 85.34, "unix_time": 1636123407.2}' from ('127.0.0.1', 37356)
+05-Nov-21 16:43:27 [INFO] - Send: '{"price": 85.34, "unix_time": 1636123407.2}'
+05-Nov-21 16:43:27 [INFO] - Close the connection
+05-Nov-21 16:43:27 [INFO] - Received '{"price": 18.74, "unix_time": 1636123407.3}' from ('127.0.0.1', 37358)
+05-Nov-21 16:43:27 [INFO] - Send: '{"price": 18.74, "unix_time": 1636123407.3}'
+05-Nov-21 16:43:27 [INFO] - Close the connection
+05-Nov-21 16:43:27 [INFO] - Received '{"price": 29.89, "unix_time": 1636123407.4}' from ('127.0.0.1', 37360)
+05-Nov-21 16:43:27 [INFO] - Send: '{"price": 29.89, "unix_time": 1636123407.4}'
+05-Nov-21 16:43:27 [INFO] - Close the connection
+05-Nov-21 16:43:27 [INFO] - Received '{"price": 15.67, "unix_time": 1636123407.5}' from ('127.0.0.1', 37362)
+05-Nov-21 16:43:27 [INFO] - Send: '{"price": 15.67, "unix_time": 1636123407.5}'
+05-Nov-21 16:43:27 [INFO] - Close the connection
+05-Nov-21 16:43:27 [INFO] - Received '{"price": 72.68, "unix_time": 1636123407.6}' from ('127.0.0.1', 37364)
+05-Nov-21 16:43:27 [INFO] - Send: '{"price": 72.68, "unix_time": 1636123407.6}'
+05-Nov-21 16:43:27 [INFO] - Close the connection
+05-Nov-21 16:43:27 [INFO] - Received '{"price": 35.21, "unix_time": 1636123407.7}' from ('127.0.0.1', 37366)
+05-Nov-21 16:43:27 [INFO] - Send: '{"price": 35.21, "unix_time": 1636123407.7}'
+05-Nov-21 16:43:27 [INFO] - Close the connection
+05-Nov-21 16:43:27 [INFO] - Received '{"price": 65.94, "unix_time": 1636123407.8}' from ('127.0.0.1', 37368)
+05-Nov-21 16:43:27 [INFO] - Send: '{"price": 65.94, "unix_time": 1636123407.8}'
+05-Nov-21 16:43:27 [INFO] - Close the connection
+05-Nov-21 16:43:27 [INFO] - Received '{"price": 77.32, "unix_time": 1636123407.9}' from ('127.0.0.1', 37370)
+05-Nov-21 16:43:27 [INFO] - Send: '{"price": 77.32, "unix_time": 1636123407.9}'
+05-Nov-21 16:43:27 [INFO] - Close the connection
+05-Nov-21 16:43:28 [INFO] - Received '{"price": 37.05, "unix_time": 1636123408.0}' from ('127.0.0.1', 37372)
+05-Nov-21 16:43:28 [INFO] - Send: '{"price": 37.05, "unix_time": 1636123408.0}'
+05-Nov-21 16:43:28 [INFO] - Close the connection
+05-Nov-21 16:43:28 [INFO] - Received '{"price": 98.12, "unix_time": 1636123408.1}' from ('127.0.0.1', 37374)
+05-Nov-21 16:43:28 [INFO] - Send: '{"price": 98.12, "unix_time": 1636123408.1}'
+05-Nov-21 16:43:28 [INFO] - Close the connection
+05-Nov-21 16:43:28 [INFO] - Received '{"price": 38.31, "unix_time": 1636123408.2}' from ('127.0.0.1', 37376)
+05-Nov-21 16:43:28 [INFO] - Send: '{"price": 38.31, "unix_time": 1636123408.2}'
+05-Nov-21 16:43:28 [INFO] - Close the connection
+05-Nov-21 16:43:28 [INFO] - Received '{"price": 91.3, "unix_time": 1636123408.3}' from ('127.0.0.1', 37378)
+05-Nov-21 16:43:28 [INFO] - Send: '{"price": 91.3, "unix_time": 1636123408.3}'
+05-Nov-21 16:43:28 [INFO] - Close the connection
+05-Nov-21 16:43:28 [INFO] - Received '{"price": 32.89, "unix_time": 1636123408.4}' from ('127.0.0.1', 37380)
+05-Nov-21 16:43:28 [INFO] - Send: '{"price": 32.89, "unix_time": 1636123408.4}'
+05-Nov-21 16:43:28 [INFO] - Close the connection
+05-Nov-21 16:43:28 [INFO] - Received '{"price": 24.29, "unix_time": 1636123408.5}' from ('127.0.0.1', 37382)
+05-Nov-21 16:43:28 [INFO] - Send: '{"price": 24.29, "unix_time": 1636123408.5}'
+05-Nov-21 16:43:28 [INFO] - Close the connection
+05-Nov-21 16:43:28 [INFO] - Received '{"price": 69.04, "unix_time": 1636123408.6}' from ('127.0.0.1', 37384)
+05-Nov-21 16:43:28 [INFO] - Send: '{"price": 69.04, "unix_time": 1636123408.6}'
+05-Nov-21 16:43:28 [INFO] - Close the connection
+05-Nov-21 16:43:28 [INFO] - Received '{"price": 60.46, "unix_time": 1636123408.7}' from ('127.0.0.1', 37386)
+05-Nov-21 16:43:28 [INFO] - Send: '{"price": 60.46, "unix_time": 1636123408.7}'
+05-Nov-21 16:43:28 [INFO] - Close the connection
+05-Nov-21 16:43:28 [INFO] - Received '{"price": 86.36, "unix_time": 1636123408.8}' from ('127.0.0.1', 37388)
+05-Nov-21 16:43:28 [INFO] - Send: '{"price": 86.36, "unix_time": 1636123408.8}'
+05-Nov-21 16:43:28 [INFO] - Close the connection
+05-Nov-21 16:43:28 [INFO] - Received '{"price": 47.34, "unix_time": 1636123408.9}' from ('127.0.0.1', 37390)
+05-Nov-21 16:43:28 [INFO] - Send: '{"price": 47.34, "unix_time": 1636123408.9}'
+05-Nov-21 16:43:28 [INFO] - Close the connection
+05-Nov-21 16:43:29 [INFO] - Received '{"price": 18.57, "unix_time": 1636123409.0}' from ('127.0.0.1', 37392)
+05-Nov-21 16:43:29 [INFO] - Send: '{"price": 18.57, "unix_time": 1636123409.0}'
+05-Nov-21 16:43:29 [INFO] - Close the connection
+05-Nov-21 16:43:29 [INFO] - Received '{"price": 51.1, "unix_time": 1636123409.1}' from ('127.0.0.1', 37394)
+05-Nov-21 16:43:29 [INFO] - Send: '{"price": 51.1, "unix_time": 1636123409.1}'
+05-Nov-21 16:43:29 [INFO] - Close the connection
+05-Nov-21 16:43:29 [INFO] - Received '{"price": 67.59, "unix_time": 1636123409.2}' from ('127.0.0.1', 37396)
+05-Nov-21 16:43:29 [INFO] - Send: '{"price": 67.59, "unix_time": 1636123409.2}'
+05-Nov-21 16:43:29 [INFO] - Close the connection
+05-Nov-21 16:43:29 [INFO] - Received '{"price": 54.97, "unix_time": 1636123409.3}' from ('127.0.0.1', 37398)
+05-Nov-21 16:43:29 [INFO] - Send: '{"price": 54.97, "unix_time": 1636123409.3}'
+05-Nov-21 16:43:29 [INFO] - Close the connection
+05-Nov-21 16:43:29 [INFO] - Received '{"price": 27.27, "unix_time": 1636123409.5}' from ('127.0.0.1', 37400)
+05-Nov-21 16:43:29 [INFO] - Send: '{"price": 27.27, "unix_time": 1636123409.5}'
+05-Nov-21 16:43:29 [INFO] - Close the connection
+05-Nov-21 16:43:29 [INFO] - Received '{"price": 63.06, "unix_time": 1636123409.6}' from ('127.0.0.1', 37402)
+05-Nov-21 16:43:29 [INFO] - Send: '{"price": 63.06, "unix_time": 1636123409.6}'
+05-Nov-21 16:43:29 [INFO] - Close the connection
+05-Nov-21 16:43:29 [INFO] - Received '{"price": 79.14, "unix_time": 1636123409.7}' from ('127.0.0.1', 37404)
+05-Nov-21 16:43:29 [INFO] - Send: '{"price": 79.14, "unix_time": 1636123409.7}'
+05-Nov-21 16:43:29 [INFO] - Close the connection
+05-Nov-21 16:43:33 [CRITICAL] - Server has been interrupted!
