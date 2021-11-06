@@ -12,13 +12,10 @@ async def handle_echo(reader, writer):
     data = await reader.read(100)
     message = data.decode()
     addr = writer.get_extra_info('peername')
-
-    logging.info(f"Received {message!r} from {addr!r}")
-    logging.info(f"Send: {message!r}")
+    logging.info(f"Received {message} from {addr}")
     writer.write(data)
     await writer.drain()
-
-    logging.info("Close the connection")
+    logging.info(f"Connection with {':'.join(str(x) for x in addr)} closed!")
     writer.close()
 
 
@@ -32,8 +29,10 @@ async def main():
     async with server:
         await server.serve_forever()
 
-try:
-    asyncio.run(main())
-except KeyboardInterrupt:
-    logging.critical("Server has been interrupted!")
-    exit()
+
+if __name__ == '__main__':
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        logging.critical("Server has been interrupted!")
+        exit()

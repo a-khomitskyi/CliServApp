@@ -27,11 +27,12 @@ async def tcp_echo_client(message):
     writer.close()
 
 
-while True:
-    try:
-        asyncio.run(tcp_echo_client(message_generator()))
-        time.sleep(0.1)
-    except KeyboardInterrupt:
-        break
+if __name__ == '__main__':
+    while True:
+        try:
+            asyncio.run(tcp_echo_client(message_generator()))
+            time.sleep(0.1)
+        except KeyboardInterrupt:
+            break
 
-exit()
+    exit()
